@@ -1,0 +1,3 @@
+Cable_name,System_type,Number_of_strands,Cable_mass,Inclination,Eff_cross_section,Length_BP2BP,Transition_length_pylon,Transition_length_deck,Deviator_pylon,Deviator_deck,Deviator_pos_pylon,Deviator_pos_deck,Estimated_tension,E_modulus,Diameter,Air_density
+16I,PSS,34,47.1,27.52,5100,42.141,15,540,None,None,2,5.8,3150,195,160,1.2
+16I,PSS,34,47.1,27.52,5100,42.141,15,540,None,None,2,5.8,3150,195,160,1.2
