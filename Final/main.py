@@ -131,7 +131,10 @@ def calculate_tension(cable_specs):
     print(f"Tension: {tension} kN, EI: {EI}, f0: {f_corrected}, f_n: {f_estimated}")
     return tension
 
-if __name__ == '__main__':
+def start(cable_id):
     init_plot()
 
-    calculate_tension(get_cable_specs(1))
+    calculate_tension(get_cable_specs(cable_id))
+
+if __name__ == '__main__':
+    start()
